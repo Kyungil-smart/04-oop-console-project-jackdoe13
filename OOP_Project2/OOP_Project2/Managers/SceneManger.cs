@@ -5,7 +5,7 @@ public class SceneManager            // 9. SceneManager Class 생성
 {
     public static Action OnChangeScene;     // 10. Action 타입의 필드 선언
     //public static Scene Current { get; private set; }   // . Scene 타입의 프로퍼티 선언
-    //private static Scene _prev;     // . Scene 타입의 변수 선언 (이름에 _는 왜 있는걸까?)
+    //private static Scene _prev;     // . Scene 타입의 변수 선언 (이름에 _는 왜 있는걸까? -> 구조체나 enum 형일 때 붙음)
 
     //private static Dictionary<string, Scene> _scenes = new Dictionary<string, Scene>(); // . Dictionary<string, Scene> 타입의 인스턴스 생성
     
