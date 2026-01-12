@@ -1,0 +1,15 @@
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\bin\Debug\net10.0\OOP_Project2.exe
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\bin\Debug\net10.0\OOP_Project2.deps.json
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\bin\Debug\net10.0\OOP_Project2.runtimeconfig.json
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\bin\Debug\net10.0\OOP_Project2.dll
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\bin\Debug\net10.0\OOP_Project2.pdb
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.AssemblyInfoInputs.cache
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.AssemblyInfo.cs
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.csproj.CoreCompileInputs.cache
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.sourcelink.json
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.dll
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\refint\OOP_Project2.dll
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.pdb
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\OOP_Project2.genruntimeconfig.cache
+C:\Users\SEJIN\Documents\GitHub\XRP-10402-jackdoe13\OOP_Project2\OOP_Project2\obj\Debug\net10.0\ref\OOP_Project2.dll
