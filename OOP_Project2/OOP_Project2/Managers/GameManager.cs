@@ -1,3 +1,5 @@
+using OOP_Project2.GameObjects;
+
 namespace OOP_Project2.Managers;
 
 public class GameManager                // 3. GameManager 클래스 생성

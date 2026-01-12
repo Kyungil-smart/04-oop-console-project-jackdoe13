@@ -15,11 +15,15 @@ public struct Tile      // 44. 타일 구조체 선언
         Position = position;        // 50. 현재 위치를 전달받아 프로퍼티에 대입
     }
 
-    public void Print()             // 51. 현재 위치를 갱시하여 출력
+    public void Print()             // 51. 현재 위치를 갱신하여 출력
     {
         if (HasGameObject)          // 52. HasGameObject 가 있다면
         {
-            OnTileObject.Symbol.Print();
+            OnTileObject.Symbol.Print();    // 61. 오브젝트 갱신 후 출력
+        }
+        else
+        {
+            ' '.Print();    // 62. 오브젝트 없으면 공백 출력
         }
     }
 
