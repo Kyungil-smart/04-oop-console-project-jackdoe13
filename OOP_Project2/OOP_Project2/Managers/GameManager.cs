@@ -16,6 +16,9 @@ public class GameManager                // 3. GameManager 클래스 생성
         while (!IsGameOver)
         {
             Console.Clear();
+            SceneManager.Render();
+            InputManager.GetUserInput();
+            SceneManager.Update();
         }
 
     }
