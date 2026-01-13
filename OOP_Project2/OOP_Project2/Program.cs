@@ -6,8 +6,8 @@ class Program
     static void Main(string[] args)
     {
         GameManager gameManager = new GameManager();        // 1. 게임매니저 인스턴스 생성
-
-
-        Console.WriteLine("일단은 작동 확인");
+        gameManager.Run();                                  // 83. 게임매니저 Run 실행
+        
+        Console.WriteLine("끝");
     }
 }

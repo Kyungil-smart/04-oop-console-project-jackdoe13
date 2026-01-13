@@ -6,7 +6,7 @@ namespace OOP_Project2.GameObjects;
 public class PlayerCharacter : GameObject       // 27. GameObject를 상속받은 PlayerCharacter Class 선언
 {
 
-    public int Hp = 1; // 목숨 하나로 변경
+    //public int Hp = 1; // 목숨 하나로 변경
     //public ObservableProperty<int> Health = new ObservableProperty<int>(5);         // 40. HP
     //public ObservableProperty<int> Mana = new ObservableProperty<int>(5);           // 41. MP
     //private string _healthGauge;        // 42. HP UI

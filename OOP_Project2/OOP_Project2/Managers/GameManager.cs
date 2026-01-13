@@ -1,4 +1,5 @@
 using OOP_Project2.GameObjects;
+using OOP_Project2.Scenes;
 
 namespace OOP_Project2.Managers;
 
@@ -11,7 +12,12 @@ public class GameManager                // 3. GameManager 클래스 생성
     public void Run()       // 6. 실행 메서드
     {
         Init();             // 7. 실행 시 초기화 메서드 실행
-        
+
+        while (!IsGameOver)
+        {
+            Console.Clear();
+        }
+
     }
 
     private void Init()
@@ -19,7 +25,9 @@ public class GameManager                // 3. GameManager 클래스 생성
         IsGameOver = false;     // 8. 처음 시작 시 IsGameOver가 False로 설정
         SceneManager.OnChangeScene += InputManager.ResetKey; // 14. 현재 Scene에 초기화된 Scene 덮어쓰기?
         _player = new PlayerCharacter();
-
+        
+        SceneManager.AddScene("Title", new TitleScene());
+        SceneManager.Change("Title");
     }
 
 }
