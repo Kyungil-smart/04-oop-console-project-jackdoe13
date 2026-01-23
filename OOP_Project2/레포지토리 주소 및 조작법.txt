@@ -1,0 +1,7 @@
+https://github.com/Kyungil-smart/04-oop-console-project-jackdoe13
+
+조작방법 
+방향키 ↑ : 위로 이동  
+방향키 ↓ : 아래로 이동
+방향키 → : 오른쪽으로 이동
+방향키 ← : 왼쪽으로 이동
